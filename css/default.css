@@ -6,8 +6,8 @@ ul { margin: auto; width: 80%; padding: 1em;  }
 
 p { margin: auto; width: 80%; padding: 1em 0 1em 0; }
 
-.screenshot { max-width: 40%; height: auto; display: block; margin: auto; padding: 1em; }
+.screenshot { max-width: 40%; height: auto; display: block; margin: 25px auto 25px auto; padding: 2px; border: 3px solid; }
 
 .screenshot:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(2);
 }
