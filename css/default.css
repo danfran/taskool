@@ -1,9 +1,9 @@
 body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
 
-h1,h2 { margin: auto; width: 40%; }
+h1,h2 { margin: auto; }
 
-ul { margin: auto; width: 40%; padding: 1em;  }
+ul { margin: auto; padding: 1em;  }
 
-p { margin: auto; width: 40%; padding: 1em; }
+p { margin: auto;  padding: 1em; }
 
-.screenshot { max-width: 30%; height: auto; display: block; margin: auto; padding: 1em; }
+.screenshot { max-width: 40%; height: auto; display: block; margin: auto; padding: 1em; }
