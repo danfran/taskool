@@ -1,9 +1,13 @@
 body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
 
-h1,h2 { margin: auto; width: 90%; }
+h1,h2 { margin: auto; width: 80%; }
 
-ul { margin: auto; width: 90%; padding: 1em;  }
+ul { margin: auto; width: 80%; padding: 1em;  }
 
-p { margin: auto; width: 90%; padding: 1em 0 1em 0; }
+p { margin: auto; width: 80%; padding: 1em 0 1em 0; }
 
-.screenshot { max-width: 50%; height: auto; display: block; margin: auto; padding: 1em; }
+.screenshot { max-width: 40%; height: auto; display: block; margin: auto; padding: 1em; }
+
+.screenshot:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
