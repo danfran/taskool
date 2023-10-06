@@ -1,0 +1,9 @@
+body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
+
+h1,h2 { margin: auto; width: 40%; }
+
+ul { margin: auto; width: 40%; padding: 1em;  }
+
+p { margin: auto; width: 40%; padding: 1em; }
+
+.screenshot { max-width: 30%; height: auto; display: block; margin: auto; padding: 1em; }
